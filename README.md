@@ -1,5 +1,6 @@
 # backtrader
 A light backtrader by c++
+股票日频回测框架
 
 # v1
 简单的分成了几个类
